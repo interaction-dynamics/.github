@@ -1,6 +1,6 @@
 # Interaction Dynamics
 
-Interaction Dynamics is a group of freelance working together to design and implement innovative interactions. We use cutting-technologies to answer the  needs of our clients like:
+Interaction Dynamics is a Design, Research and Development agency gathering worldwide experts to create innovative interactions. We use cutting-technologies to answer the needs of our clients like:
 
 - virtual reality
 - augmented reality
@@ -10,8 +10,6 @@ Interaction Dynamics is a group of freelance working together to design and impl
 - brain-computer interfaces
 
 ![Activity recognition](https://user-images.githubusercontent.com/4005226/126560171-6d6004da-99b8-4056-a623-07a90025ad01.gif)
-
-
 
 For more details, you can visit our [website](https://interaction-dynamics.github.io/). We are always looking for new collaborations. 
 
