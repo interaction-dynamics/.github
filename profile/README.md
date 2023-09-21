@@ -2,6 +2,8 @@
 
 Interaction Dynamics is a Design, Research and Development Studio gathering worldwide experts to create innovative interactions. We use cutting-technologies to answer the needs of our clients like:
 
+- web
+- mobile
 - virtual reality
 - augmented reality
 - image recognition
